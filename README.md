@@ -62,8 +62,10 @@ target/site/jacoco/index.html
 * ✔ Coverage đạt mức cao (gần 100%)
 
 📸 Minh chứng:
-
+<img width="1920" height="1080" alt="Screenshot (510)" src="https://github.com/user-attachments/assets/9557b504-35e4-4ae8-817c-992797e3861c" />
 * Ảnh log chạy test (BUILD SUCCESS)
+
+<img width="1901" height="897" alt="Ảnh chụp màn hình 2026-05-04 214124" src="https://github.com/user-attachments/assets/c5078228-f9c7-45ac-8017-49f3fb90fa06" />
 * Ảnh báo cáo JaCoCo
 
 ---
